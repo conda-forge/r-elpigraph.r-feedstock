@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 1001
+  number: 1002
   # r-distutils is not available on win
   skip: true  # [win]
   rpaths:
@@ -59,6 +59,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - conda-forge/r
     - dpryan79
     - johanneskoester
     - lucapinello
