@@ -3,7 +3,7 @@ About r-elpigraph.r
 
 Home: https://github.com/Albluca/ElPiGraph.R
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-elpigraph.r-feedstock/blob/master/LICENSE.txt)
 
@@ -156,7 +156,5 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@dpryan79](https://github.com/dpryan79/)
-* [@johanneskoester](https://github.com/johanneskoester/)
 * [@lucapinello](https://github.com/lucapinello/)
 
