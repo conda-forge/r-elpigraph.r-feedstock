@@ -52,14 +52,14 @@ test:
 
 about:
   home: https://github.com/Albluca/ElPiGraph.R
-  license: GPL-3
+  license: GPL-3.0-only
   license_family: GPL
-  license_file: LICENSE
   summary: An R package to construct Elastic Principal Graphs
+  license_file:
+    - {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3
+    - LICENSE
 
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - dpryan79
-    - johanneskoester
     - lucapinello
